@@ -1,2 +1,2 @@
 My first readme
-The only manual edit on Git Hub
+This is my manual edit on git hub 
